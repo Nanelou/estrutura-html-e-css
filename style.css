@@ -1,0 +1,9 @@
+/* Arquivo: styles.css */
+/* O CSS é utilizado para estilizar o HTML, definindo cores, tamanhos, fontes e posicionamento dos elementos. */
+body {
+    font-family: Verdana, sans-serif; /* Define a fonte padrão do texto */
+    text-align: center; /* Centraliza o conteúdo na página */
+    background-color: #e0f7fa; /* Define a cor de fundo da página */
+    margin: 0; /* Remove margens padrão */
+    padding: 20px; /* Adiciona espaçamento interno ao corpo da página */
+}
